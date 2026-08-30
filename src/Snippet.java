@@ -3,6 +3,6 @@ public class Snippet {
         printMessage();
     }
     public static void printMessage() {
-        System.out.println("Hello from the new Java repository webhook!");
+        System.out.println("Hello webhook version 2");
     }
 }
